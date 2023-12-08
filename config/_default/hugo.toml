@@ -8,6 +8,10 @@ enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-6NVRX3FXPQ'
+
 [markup]
   [markup.highlight]
     anchorLineNos = false
