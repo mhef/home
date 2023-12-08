@@ -1,3 +1,28 @@
+body {
+  word-wrap: break-word;
+}
+
+@media (max-width: 800px) {
+  body {
+    margin: 20px;
+    margin-left: 20px!important;
+    margin-right: 20px!important;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+
+  .header header {
+    order: 2;
+  }
+
+  .header button {
+    order: 1;
+  }
+}
+
+/* Details */
 details {
   width: 100%;
   margin: 0 auto ;
