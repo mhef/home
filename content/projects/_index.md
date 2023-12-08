@@ -153,4 +153,4 @@ In an effort to implement the RX digital signing into Zaex Clinic, I rewrited th
 
 <br><br>
 
-PS: many of this projects are not public on my Github because I don't believe they describe my philosophy and coding skills anymore, since I evolved since them. But if you are insterested in seeing their code or discuss one of them I'm always available 😁 - just get in touch through one of the channels in the footer.
+PS: many of this projects are not public on my Github because I don't believe they describe my philosophy and coding skills anymore, given that I evolved since them. But if you are insterested in seeing their code or discuss one of them I'm always available 😁 - just get in touch through one of the channels in the footer.
