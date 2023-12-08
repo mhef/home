@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   homepage:
-    image: hugomods/hugo:node-lts
+    image: hugomods/hugo:node-lts-0.121.1
     container_name: homepage
     command: hugo server -D --bind 0.0.0.0
     volumes:
