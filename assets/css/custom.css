@@ -1,0 +1,53 @@
+details {
+  width: 100%;
+  margin: 0 auto ;
+  margin-bottom: .5rem;
+  border: solid thin rgba(0,0,0,.3);
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.dark details {
+  border: solid thin rgba(255,255,255,.3);
+}
+
+summary {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+  flex-wrap: nowrap;
+}
+
+summary:before {
+  content: '';
+  border-width: .4rem;
+  border-style: solid;
+  border-color: transparent transparent transparent #000;
+  top: 1.3rem;
+  left: 1rem;
+  transform: rotate(0);
+  transform-origin: .2rem 50%;
+  transition: .25s transform ease;
+}
+
+.dark summary:before {
+  border-color: transparent transparent transparent #fff;
+}
+
+details[open] > summary:before {
+  transform: rotate(90deg);
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details > ul {
+  padding-bottom: 1rem;
+  margin-bottom: 0;
+}
