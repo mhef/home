@@ -8,16 +8,16 @@ Built with [Hugo](https://gohugo.io/) and [Lowkey](https://github.com/nixentric/
 
 To install the dependencies, execute:
  ```console
-$ make install
+make install
  ```
 
-To spin up the dev server with hotrealod, execute:
+To spin up the dev server with hotreload, execute:
  ```console
-$ make dev
+make dev
  ```
 
 To build, execute:
  ```console
-$ make
+make
  ```
 
