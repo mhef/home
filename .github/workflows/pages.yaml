@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          submodules: recursive
 
       - name: Install dependencies
         run: make install
@@ -26,7 +28,6 @@ jobs:
           path: ./public
   
   deploy:
-    name: Deploy
     needs: build
     permissions:
       pages: write
