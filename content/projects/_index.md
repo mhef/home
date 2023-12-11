@@ -36,7 +36,15 @@ Still online at: [https://zaex.com.br](zaex.com.br).
 {{< /details >}}
 
 {{< details "**Go library for PDF signing, conforming with ICPBR**" >}}
-In an effort to implement the RX digital signing into Zaex Clinic, I rewrited the [https://github.com/digitorus/pdfsign](pdfsign) package to align it to the Go idiom, to improve the documentation and to make it conform with the ICP-Brasil policies. Also, after my rewrite the package was able to integrate the signing process with the PSC's signing flow (a PSC is a trusted identity provider from ICPBR allowed to store private keys and sign hashes on behalf of their customers). 
+In an effort to implement the RX digital signing into Zaex Clinic, I rewrited the [pdfsign](https://github.com/digitorus/pdfsign) package to align it to the Go idiom, to improve the documentation and to make it conform with the ICP-Brasil policies. Also, after my rewrite the package was able to integrate the signing process with the PSC's signing flow (a PSC is a trusted identity provider from ICPBR allowed to store private keys and sign hashes on behalf of their customers). 
+{{< /details >}}
+
+{{< details "**PowerStrings**" >}}
+PowerStrings is a webtool to easily manipulate, transform and format texts. It works by allowing the chaining of string and array transformers, resulting in a powerful yet simple tool. Also, it allow sharing the applied transformation by a URL, allowing the user to share or reuse the operations later.
+
+Online at [powerstrings.mhef.com.br](https://powerstrings.mhef.com.br).
+
+Source code [can be viewed here](https://github.com/mhef/powerstrings).
 {{< /details >}}
 
 # 2022
