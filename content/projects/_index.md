@@ -32,7 +32,7 @@ Technologies:
 {{< details "**Zaex Site**" >}}
 To support the Zaex Clinic selling, I developed from the scratch a homepage for Zaex. Developed with Vue3, Nuxt3 and SASS.
 
-Still online at: [https://zaex.com.br](zaex.com.br).
+Still online at: [zaex.com.br](https://zaex.com.br).
 {{< /details >}}
 
 {{< details "**Go library for PDF signing, conforming with ICPBR**" >}}
