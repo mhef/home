@@ -80,7 +80,6 @@ The software was capable of automatically registring dozens of candidates in a f
 {{< /details >}}
 
 # 2018
-
 {{< details "**Medical Record**" >}}
 As requested by a colleague physician, I developed a medical record desktop application to manage patient records. The application was developed with Electron, NodeJS, Vue2 and SQLite.
 {{< /details >}}
@@ -90,13 +89,11 @@ At NoBugs, I was the main developer in the project of a desktop and mobile appli
 {{< /details >}}
 
 # 2019
-
 {{< details "**DirTemplater**" >}}
 As requested by a colleague lawyer, I developed a desktop application to generate batch Word DOCX files based on a template and feeded by a Excel sheet. The application was developed with Electron, NodeJS, Vue2 and SQLite.
 {{< /details >}}
 
 # 2020
-
 {{< details "**Zaex Health**" >}}
 In the beginning of 2020, I developed a improved version of the Medical Record application. In this version the layout of the record was configurable and there was a setuping process allowing the user to customize their options. Developed with Electron, Vue2, BootstrapVue and SQLite.
 {{< /details >}}
@@ -106,7 +103,6 @@ To support the Zaex Health billing, I developed a web application where the cust
 {{< /details >}}
 
 # 2022
-
 {{< details "**Statera - HTTP Load Balancer**" >}}
 As my undergrad senior thesis at UFV, I designed and developed a Network Load Balancer for the HTTP protocol. The paper was written with LaTeX and the load balancer was implemented with Go. The paper of the project was submitted to a HPC national conference and was accepted after a blind review by peers.
 
@@ -116,7 +112,6 @@ The source code [can be viewed here](https://github.com/mhef/statera).
 {{< /details >}}
 
 # 2023
-
 {{< details "**Zaex Clinic**" >}}
 Zaex Clinic is the biggest project I ever developed. It was a complete cloud solution for clinics and health offices with schedule / timetable, medical record and management features. Developed in a monorepo, splited in 4 services and 3 web applications. Deployed with a variety of AWS services.
 
@@ -148,7 +143,7 @@ Still online at: [https://zaex.com.br](zaex.com.br).
 {{< /details >}}
 
 {{< details "**Go library for PDF signing, conforming with ICPBR**" >}}
-In an effort to implement the RX digital signing into Zaex Clinic, I rewrited the [https://github.com/digitorus/pdfsign](pdfsign) package to align it to the Go idiom, to improve the documentation and to make it conform with the ICP-Brasil policies. Also, after my rewrite the package was able to integrate the signing process with the PSC's signing flow (a PSC is a trusted identity provider from ICPBR allowed to store private keys and sign documents on behalf of their customers). 
+In an effort to implement the RX digital signing into Zaex Clinic, I rewrited the [https://github.com/digitorus/pdfsign](pdfsign) package to align it to the Go idiom, to improve the documentation and to make it conform with the ICP-Brasil policies. Also, after my rewrite the package was able to integrate the signing process with the PSC's signing flow (a PSC is a trusted identity provider from ICPBR allowed to store private keys and sign hashes on behalf of their customers). 
 {{< /details >}}
 
 <br><br>
