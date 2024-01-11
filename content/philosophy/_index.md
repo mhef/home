@@ -10,15 +10,18 @@ I do believe that a philosophy-driven software development rocks any other metho
 - **Documentation is for users.**
 - **Things should be defined as close as possible to where they're used.**
 - **A little copying is better than a little dependency.**
+- **Make simple uses simple and complex uses possible.** [^1]
+
+[^1]: https://github.com/golang/go/issues/53757#issuecomment-1218524290.
 
 Summarizing:
-> Simplicity; Try to decrease cognitive load; Do things in the most straightforward and obvious way. [^1]
+> Simplicity; Try to decrease cognitive load; Do things in the most straightforward and obvious way. [^2]
 
-[^1]: https://github.com/golang/go/issues/33232#issuecomment-925214065.
+[^2]: https://github.com/golang/go/issues/33232#issuecomment-925214065.
 
 
 
-Based on Go Proverbs. [^2]
+Based on Go Proverbs. [^3]
 
-[^2]: https://www.youtube.com/watch?v=PAAkCSZUG1c.
+[^3]: https://www.youtube.com/watch?v=PAAkCSZUG1c.
 
