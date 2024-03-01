@@ -88,7 +88,7 @@ We used **C++** in all courses related to Algorithms, Data Structures, Graph The
 The degree requirements and curriculum [can be viewed here](https://www-catalogo-ufv-br.translate.goog/matriz.php?campus=vicosa&complemento=*&curso=CCP&ano=2023&_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp).
 {{< /details >}}
 
-{{< details "**NoBugs Challange Project**" >}}
+{{< details "**NoBugs Challenge Project**" >}}
 In late 2017, I joined NoBugs - a junior company from UFV. As a technical challenge for the recruitment process, I developed a complete document management system with PHP and MySQL.
 {{< /details >}}
 
